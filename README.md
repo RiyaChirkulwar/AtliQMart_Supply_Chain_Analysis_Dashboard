@@ -53,3 +53,28 @@ The key responsibilities include:
 ## Project Objective
 
 The main objective of this project is to provide actionable insights into supply chain delivery performance, identify service-level gaps, improve customer satisfaction, and support AtliQ Mart's future expansion plans.
+
+## Data Model
+
+The data model illustrates the relationships between the fact and dimension tables used in the analysis.
+
+![Data Model](## Data Model
+
+The data model illustrates the relationships between the fact and dimension tables used in the analysis.
+
+![Data Model](Datamodel.png)
+
+---
+
+## Dashboard Preview
+
+The interactive Power BI dashboard provides insights into AtliQ Mart's supply chain performance, including On-Time, In-Full, and OTIF delivery metrics.
+
+![Supply Chain Dashboard](Datamodel.png)
+
+---)
+
+---
+
+
+
