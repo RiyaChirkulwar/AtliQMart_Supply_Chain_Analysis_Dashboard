@@ -56,25 +56,8 @@ The main objective of this project is to provide actionable insights into supply
 
 ## Data Model
 
-The data model illustrates the relationships between the fact and dimension tables used in the analysis.
-
-![Data Model](## Data Model
-
-The data model illustrates the relationships between the fact and dimension tables used in the analysis.
-
-![Data Model](Datamodel.png)
-
----
+![Data Model](https://drive.google.com/file/d/1Rn9UqqsdrZrLpNbC-VMHNFXOY6gweKPA/view?usp=drive_link)
 
 ## Dashboard Preview
 
-The interactive Power BI dashboard provides insights into AtliQ Mart's supply chain performance, including On-Time, In-Full, and OTIF delivery metrics.
-
-![Supply Chain Dashboard](Datamodel.png)
-
----)
-
----
-
-
-
+![Dashboard](https://drive.google.com/file/d/1ztmV9eiorHKJCJSpc5hQ7T6DVoOaIt6s/view?usp=drive_link)
