@@ -56,8 +56,8 @@ The main objective of this project is to provide actionable insights into supply
 
 ## Data Model
 
-![Data Model](https://drive.google.com/file/d/1Rn9UqqsdrZrLpNbC-VMHNFXOY6gweKPA/view?usp=drive_link)
+![Data Model](Datamodel.png)
 
 ## Dashboard Preview
 
-![Dashboard](https://drive.google.com/file/d/1ztmV9eiorHKJCJSpc5hQ7T6DVoOaIt6s/view?usp=drive_link)
+![Dashboard](Supplychain.png)
